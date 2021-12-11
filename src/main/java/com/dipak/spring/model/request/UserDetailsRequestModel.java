@@ -1,4 +1,4 @@
-package com.dipak.spring.model;
+package com.dipak.spring.model.request;
 
 public class UserDetailsRequestModel {
     private String firstname;
